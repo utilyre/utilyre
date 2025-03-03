@@ -1,4 +1,4 @@
-### 👋 Hi, it's Utilyre <utilyre@gmail.com>
+### 👋 Hi, it's Utilyre <utilyre​@gmail.com>
 
 You can find me on [X][x], [Twitch][twitch], and [Discord][discord].
 
