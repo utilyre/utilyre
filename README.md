@@ -1,6 +1,6 @@
 ### 👋 Hi, it's Utilyre
 
-📺 [Twitch][twitch] is my stage, and coding is my play.
+📺 [Twitch][twitch] is my stage, and coding is the play.
 
 🐦 My [X][x] is a library of wisdom. Well, mostly the things I didn't want to 
 forget.
