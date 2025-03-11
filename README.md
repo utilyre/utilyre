@@ -1,6 +1,6 @@
 ## 👋 Hi, it's Utilyre
 
-I like coding and here are some func facts about me.
+I like coding and here are some func facts about me:
 
 📺 [Twitch][twitch] is my stage, and coding is the play (07:00 GMT almost
 everyday).
