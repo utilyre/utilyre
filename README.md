@@ -5,8 +5,8 @@ I like coding and here are some func facts about me:
 📺 [Twitch][twitch] is my stage, and coding is the play (07:00 GMT almost
 everyday).
 
-🐦 My [X][x] is a library of wisdom. Well, mostly the things I didn't want to 
-forget.
+🐦 My [X (former Twitter)][x] is a library of wisdom. Well, mostly the things I
+didn't want to forget.
 
 🔥 In case of fire, [email me][email].
 
