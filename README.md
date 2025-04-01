@@ -1,9 +1,8 @@
 ## 👋 Hi, it's Utilyre
 
-I like coding and here are some func facts about me:
+I like coding and here are some `func` facts about me:
 
-📺 [Twitch][twitch] is my stage, and coding is the play (07:00 GMT almost
-everyday).
+📺 [Twitch][twitch] is my stage, and coding is the play (~07:00 UTC).
 
 🐦 My [X (former Twitter)][x] is a library of wisdom. Well, mostly the things I
 didn't want to forget.
