@@ -7,14 +7,14 @@
 
 I like coding and here are some `func` facts about me:
 
-- 📺 [Twitch][twitch] is my stage, and coding is the play.
+- [📺 Twitch][twitch] is my stage, and coding is the play.
 
-- 🐦 My [X (former Twitter)][x] is a library of wisdom. Well, mostly the things I
+- My [🐦 X (former Twitter)][x] is a library of wisdom. Well, mostly the things I
 didn't want to forget.
 
-- 🔥 In case of fire, [email me][email].
+- In case of fire, [📬 email me][email].
 
-- 🔑 If it bears my [GPG key][gpg], then lo, it was forged by my own hands.
+- If it bears my [🔑 GPG key][gpg], then lo, it was forged by my own hands.
 
 [multiplayer]: https://github.com/utilyre/multiplayer
 [twitch]: https://twitch.tv/utilyre
