@@ -1,7 +1,7 @@
 ## 👋 Hi, it's Utilyre
 
 > [!NOTE]
-> Currently working on [🎮 a multiplayer online game from scratch][multiplayer].
+> Currently working on a [🎮 multiplayer online game from scratch][multiplayer].
 
 I like coding and here are some `func` facts about me:
 
