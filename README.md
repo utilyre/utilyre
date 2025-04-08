@@ -1,4 +1,3 @@
-> [!NOTE]
 > I'm currently working on a
 > [🎮 multiplayer online game from scratch][multiplayer].
 
