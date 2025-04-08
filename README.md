@@ -21,3 +21,7 @@ didn't want to forget.
 [x]: https://x.com/utilyre
 [email]: mailto:utilyre@gmail.com
 [gpg]: https://github.com/utilyre.gpg
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utilyre&layout=compact&langs_count=10)
