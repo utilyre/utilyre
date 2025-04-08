@@ -28,4 +28,4 @@ didn't want to forget.
 ![Utilyre's Top Languages][languages]
 
 [stats]: https://github-readme-stats.vercel.app/api?username=utilyre&theme=gruvbox
-[languages]: https://github-readme-stats.vercel.app/api/top-langs?username=utilyre&langs_count=5&theme=gruvbox
+[languages]: https://github-readme-stats.vercel.app/api/top-langs?username=utilyre&langs_count=5&layout=compact&theme=gruvbox
