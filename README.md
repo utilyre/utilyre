@@ -1,5 +1,6 @@
 ## 👋 Hi, it's Utilyre
 
+> [!INFO]
 > Currently working on [🎮 a multiplayer online game from scratch][multiplayer].
 
 I like coding and here are some `func` facts about me:
