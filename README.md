@@ -7,7 +7,7 @@
 
 I like coding and here are some `func` facts about me:
 
-- [📺 Twitch][twitch] is my stage, and coding is the play.
+- [📡 Twitch][twitch] is my stage, and coding is the play.
 
 - My [🐦 X (former Twitter)][x] is a library of wisdom. Well, mostly the things I
 didn't want to forget.
