@@ -1,5 +1,6 @@
 > [!NOTE]
-> Currently working on a [🎮 multiplayer online game from scratch][multiplayer].
+> I'm currently working on a
+> [🎮 multiplayer online game from scratch][multiplayer].
 
 ## 👋 Hi, it's Utilyre
 
