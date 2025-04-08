@@ -24,4 +24,6 @@ didn't want to forget.
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utilyre&layout=compact&langs_count=3)
+![Utilyre's Top Languages][languages]
+
+[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=utilyre&langs_count=3&theme=gruvbox
