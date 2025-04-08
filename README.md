@@ -1,8 +1,8 @@
 ## 👋 Hi, it's Utilyre
 
-I like coding and here are some `func` facts about me:
+> Currently working on [🎮 a multiplayer online game from scratch][multiplayer].
 
-- 🔭 Currently working on [a multiplayer online game from scratch][multiplayer].
+I like coding and here are some `func` facts about me:
 
 - 📺 [Twitch][twitch] is my stage, and coding is the play.
 
