@@ -1,6 +1,6 @@
 > [!NOTE]
 >
-> I'm currently working on a [🎮 multiplayer online game from scratch][multiplayer] live on [💬 Twitch][twitch].
+> I'm currently working on a [🎮 multiplayer online game from scratch][multiplayer] live on [💬 Twitch][twitch] (VODs go to [🎬 My YouTube channel][youtube]).
 
 ## 👋 Hi, it's Utilyre
 
@@ -14,6 +14,7 @@ I like coding and here are some `func` facts about me:
 
 [multiplayer]: https://github.com/utilyre/multiplayer
 [twitch]: https://twitch.tv/utilyre
+[youtube]: https://youtube.com/@utilyre
 [x]: https://x.com/utilyre
 [email]: mailto:utilyre@gmail.com
 [gpg]: https://github.com/utilyre.gpg
