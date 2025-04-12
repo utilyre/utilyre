@@ -1,6 +1,6 @@
 > [!NOTE]
 >
-> I'm currently working on a [🎮 multiplayer online game from scratch][multiplayer] live on [Twitch][twitch].
+> I'm currently working on a [🎮 multiplayer online game from scratch][multiplayer] live on [🫟 Twitch][twitch].
 
 ## 👋 Hi, it's Utilyre
 
