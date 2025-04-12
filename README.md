@@ -1,16 +1,12 @@
 > [!NOTE]
 >
-> I'm currently working on a
-> [🎮 multiplayer online game from scratch][multiplayer].
+> I'm currently working on a [🎮 multiplayer online game from scratch][multiplayer] live on [Twitch][twitch].
 
 ## 👋 Hi, it's Utilyre
 
 I like coding and here are some `func` facts about me:
 
-- [📡 Twitch][twitch] is my stage, and coding is the play.
-
-- My [🐦 X (former Twitter)][x] is a library of wisdom. Well, mostly the things I
-didn't want to forget.
+- [🐦 X][x] is where I talk about the cool stuff I've been doing lately.
 
 - In case of fire, [📬 email me][email].
 
