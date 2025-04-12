@@ -1,6 +1,7 @@
 > [!NOTE]
 >
-> I'm currently working on a [🎮 multiplayer online game from scratch][multiplayer] live on [💬 Twitch][twitch] (VODs go to [🎬 My YouTube channel][youtube]).
+> Watch me live on [💬 Twitch][twitch] building [🎮 a multiplayer online game
+> from scratch][multiplayer], or keep up with the VODs on [🎬 YouTube][youtube].
 
 ## 👋 Hi, it's Utilyre
 
