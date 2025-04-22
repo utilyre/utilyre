@@ -1,13 +1,13 @@
 > [!NOTE]
 >
-> Watch me live on [💬 Twitch][twitch] building [🎮 a multiplayer online game
+> Watch me live on [📽️ Twitch][twitch] building [🎮 a multiplayer online game
 > from scratch][multiplayer], or keep up with the VODs on [🎬 YouTube][youtube].
 
 ## 👋 Hi, it's Utilyre
 
 I like coding and here are some `func` facts about me:
 
-- [🐦 X][x] is where I talk about the cool stuff I've been doing lately.
+- [💬 X][x] is where I talk about the cool stuff I've been doing lately.
 
 - In case of fire, [📬 email me][email].
 
