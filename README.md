@@ -1,22 +1,15 @@
-> [!NOTE]
->
-> Watch me live on [📽️ Twitch][twitch] building [🎮 a multiplayer online game
-> from scratch][multiplayer], or keep up with the VODs on [🎬 YouTube][youtube].
-
 ## 👋 Hi, it's Utilyre
 
 I like coding and here are some `func` facts about me:
 
 - [💬 X][x] is where I talk about the cool stuff I've been doing lately.
 
-- In case of fire, [📬 email me][email].
+- Keep up with my devlogs and projects on [🎬 YouTube][youtube].
 
 - If it bears my [🔑 GPG key][gpg], then lo, it was forged by my own hands.
 
-[multiplayer]: https://github.com/utilyre/multiplayer
-[twitch]: https://twitch.tv/utilyre
-[youtube]: https://youtube.com/@utilyre
 [x]: https://x.com/utilyre
+[youtube]: https://youtube.com/@utilyre
 [email]: mailto:utilyre@gmail.com
 [gpg]: https://github.com/utilyre.gpg
 
