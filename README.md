@@ -4,7 +4,7 @@ I like coding and here are some `func` facts about me:
 
 - [💬 X][x] is where I talk about the cool stuff I've been doing lately.
 
-- Keep up with my devlogs and projects on [🎬 YouTube][youtube].
+- Keep up with my devlogs and tutorials on [🎬 YouTube][youtube].
 
 - If it bears my [🔑 GPG key][gpg], then lo, it was forged by my own hands.
 
