@@ -29,7 +29,7 @@ details and explain my approach to synchronization using snapshot interpolation.
 
 ![Multiplayer Asteroids Demo](https://github.com/utilyre/go-asteroids/blob/main/demo.gif)
 
-### Condottiere
+### [Condottiere](https://github.com/utilyre/condot)
 
 In Condottiere, 3-6 players vie to establish their influence and control over
 the cities and regions of Italy. Fight with skill and daring and use every tool
