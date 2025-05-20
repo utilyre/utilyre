@@ -31,14 +31,12 @@ details and explain my approach to synchronization using snapshot interpolation.
 
 ### [Condottiere](https://github.com/utilyre/condot)
 
-In Condottiere, 3-6 players vie to establish their influence and control over
-the cities and regions of Italy. Fight with skill and daring and use every tool
-at your disposal to reshape the political and military landscape of Italy for
-generations to come.
-
-condot is an implementation of
-[Condottiere](https://boardgamegeek.com/boardgame/112/condottiere) written in
-C++ with [Raylib](https://raylib.com) and [OOP design](./docs/v2.pdf).
+In [Condottiere](https://boardgamegeek.com/boardgame/112/condottiere), 3-6
+players vie to establish their influence and control over the cities and regions
+of Italy. Fight with skill and daring and use every tool at your disposal to
+reshape the political and military landscape of Italy for generations to come.
+This implementation is written in C++ with [Raylib](https://raylib.com) and [OOP
+design](./docs/v2.pdf).
 
 Play the live demo at
 [utilyre.github.io/condot](https://utilyre.github.io/condot). Make sure to zoom
