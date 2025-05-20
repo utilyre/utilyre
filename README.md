@@ -17,12 +17,18 @@ I like coding and here are some `func` facts about me:
 
 ### Multiplayer Asteroids
 
+![demo](https://github.com/utilyre/go-asteroids/blob/main/demo.gif)
+
 [Explanation Video](https://youtu.be/G8nxQ9ESIFA)
+--
 [GitHub Repo](https://github.com/utilyre/go-asteroids)
 
 ### Condottiere
 
+![board](https://github.com/utilyre/condot/raw/main/gallery/board.png)
+
 [Live Demo](https://utilyre.github.io/condot)
+--
 [GitHub Repo](https://github.com/utilyre/condot)
 
 ---
