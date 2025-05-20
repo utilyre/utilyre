@@ -13,6 +13,18 @@ I like coding and here are some `func` facts about me:
 [email]: mailto:utilyre@gmail.com
 [gpg]: https://github.com/utilyre.gpg
 
+## Portfolio
+
+### Multiplayer Asteroids
+
+[Explanation Video](https://youtu.be/G8nxQ9ESIFA)
+[GitHub Repo](https://github.com/utilyre/go-asteroids)
+
+### Condottiere
+
+[Live Demo](https://utilyre.github.io/condot)
+[GitHub Repo](https://github.com/utilyre/condot)
+
 ---
 
 ![Utilyre's Statistics][stats]
