@@ -12,9 +12,9 @@ I like coding and here are some `func` facts about me:
 [youtube]: https://youtube.com/@utilyre
 [gpg]: https://github.com/utilyre.gpg
 
-| <img width="441" height="1"> |
+|                              |
 | :--------------------------- |
-| ![Utilyre's Skills][skills1] |
+| ![Utilyre's Skills][skills1] <img width="9999999" height="1"> |
 | ![Utilyre's Skills][skills2] |
 
 <style>
