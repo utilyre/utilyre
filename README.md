@@ -1,7 +1,5 @@
 ## 👋 Hi, it's Utilyre
 
-![Utilyre's Skills][skills]
-
 I like coding and here are some `func` facts about me:
 
 - [💬 LinkedIn][linkedin] is where I talk about the cool stuff I've been doing lately.
@@ -13,7 +11,16 @@ I like coding and here are some `func` facts about me:
 [linkedin]: https://linkedin.com/in/amirabbas-fazelinia
 [youtube]: https://youtube.com/@utilyre
 [gpg]: https://github.com/utilyre.gpg
-[skills]: https://skillicons.dev/icons?i=unity,cs,cpp,lua,go,cmake,bash,githubactions,git&perline=5
+
+---
+
+![Utilyre's Skills][skills1]
+![Utilyre's Skills][skills2]
+![Utilyre's Skills][skills3]
+
+[skills1]: https://skillicons.dev/icons?i=unity,cs,cpp,lua,go
+[skills2]: https://skillicons.dev/icons?i=cmake,bash,githubactions,git
+[skills3]: https://skillicons.dev/icons?i=neovim
 
 ---
 
