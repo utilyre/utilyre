@@ -18,11 +18,8 @@ I like coding and here are some `func` facts about me:
 
 ![Utilyre's Skills][skills2]
 
-![Utilyre's Skills][skills3]
-
 [skills1]: https://skillicons.dev/icons?i=unity,cs,cpp,lua,go
-[skills2]: https://skillicons.dev/icons?i=cmake,bash,githubactions,git
-[skills3]: https://skillicons.dev/icons?i=neovim
+[skills2]: https://skillicons.dev/icons?i=cmake,bash,docker,githubactions
 
 ---
 
