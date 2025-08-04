@@ -17,6 +17,12 @@ I like coding and here are some `func` facts about me:
 | ![Utilyre's Skills][skills1] |
 | ![Utilyre's Skills][skills2] |
 
+<style>
+  table {
+    width: 100%;
+  }
+</style>
+
 [skills1]: https://skillicons.dev/icons?i=unity,cs,cpp,lua,go
 [skills2]: https://skillicons.dev/icons?i=cmake,bash,docker,githubactions
 
