@@ -1,9 +1,3 @@
-![Utilyre's Skills][skills1]
-
-![Utilyre's Skills][skills2]
-
-[skills1]: https://skillicons.dev/icons?i=unity,cs,cpp,lua,go
-[skills2]: https://skillicons.dev/icons?i=cmake,bash,docker,githubactions
 
 ## 👋 Hi, it's Utilyre
 
@@ -15,9 +9,12 @@ I like coding and here are some `func` facts about me:
 
 - If it bears my [🔑 GPG key][gpg], then lo, it was forged by my own hands.
 
+![Utilyre's Skills][skills]
+
 [linkedin]: https://linkedin.com/in/amirabbas-fazelinia
 [youtube]: https://youtube.com/@utilyre
 [gpg]: https://github.com/utilyre.gpg
+[skills]: https://skillicons.dev/icons?i=unity,cs,cpp,lua,go,cmake,bash,docker,githubactions
 
 ---
 
