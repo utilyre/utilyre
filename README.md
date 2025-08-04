@@ -18,4 +18,4 @@ I like coding and here are some `func` facts about me:
 ![Utilyre's Top Languages][languages]
 
 [stats]: https://github-readme-stats.vercel.app/api?username=utilyre&theme=gruvbox
-[languages]: https://github-readme-stats.vercel.app/api/top-langs?username=utilyre&langs_count=8&layout=compact&theme=gruvbox
+[languages]: https://github-readme-stats.vercel.app/api/top-langs?username=utilyre&langs_count=8&count_private=true&layout=compact&theme=gruvbox
