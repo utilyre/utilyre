@@ -12,11 +12,10 @@ I like coding and here are some `func` facts about me:
 [youtube]: https://youtube.com/@utilyre
 [gpg]: https://github.com/utilyre.gpg
 
-### What can I do without googling?
-
-![Utilyre's Skills][skills1]
-
-![Utilyre's Skills][skills2]
+| Test                         |
+| :--------------------------: |
+| ![Utilyre's Skills][skills1] |
+| ![Utilyre's Skills][skills2] |
 
 [skills1]: https://skillicons.dev/icons?i=unity,cs,cpp,lua,go
 [skills2]: https://skillicons.dev/icons?i=cmake,bash,docker,githubactions
