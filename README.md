@@ -15,8 +15,9 @@ I like coding and here are some `func` facts about me:
 
 ---
 
+|                              |                              |
+| ---------------------------- | ---------------------------- |
 | ![Utilyre's Skills][skills1] | ![Utilyre's Skills][skills2] |
-| ----------------------------------------------------------- |
 
 ![Utilyre's Statistics][stats]
 ![Utilyre's Languages][languages]
