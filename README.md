@@ -8,15 +8,13 @@ I like coding and here are some `func` facts about me:
 
 - If it bears my [🔑 GPG key][gpg], then lo, it was forged by my own hands.
 
+![Utilyre's Skills][skills]
+
 [linkedin]: https://linkedin.com/in/amirabbas-fazelinia
 [youtube]: https://youtube.com/@utilyre
 [gpg]: https://github.com/utilyre.gpg
 
----
-
-![Utilyre's Skills][skills]
-
-[skills]: https://skillicons.dev/icons?i=unity,cs,cpp
+[skills]: https://skillicons.dev/icons?i=unity,cs,cpp,cmake,go,lua,linux
 
 ---
 
