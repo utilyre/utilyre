@@ -1,5 +1,7 @@
 ## 👋 Hi, it's Utilyre
 
+![Utilyre's Skills][skills]
+
 I like coding and here are some `func` facts about me:
 
 - [💬 LinkedIn][linkedin] is where I talk about the cool stuff I've been doing lately.
@@ -7,8 +9,6 @@ I like coding and here are some `func` facts about me:
 - Keep up with my devlogs and tutorials on [🎬 YouTube][youtube].
 
 - If it bears my [🔑 GPG key][gpg], then lo, it was forged by my own hands.
-
-![Utilyre's Skills][skills]
 
 [linkedin]: https://linkedin.com/in/amirabbas-fazelinia
 [youtube]: https://youtube.com/@utilyre
