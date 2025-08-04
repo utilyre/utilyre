@@ -25,4 +25,4 @@ I like coding and here are some `func` facts about me:
 [stats]: https://github-readme-stats.vercel.app/api?username=utilyre&count_private=true&theme=gruvbox&show_icons=true&hide_border=true
 [languages]: https://github-readme-stats.vercel.app/api/top-langs?username=utilyre&langs_count=8&layout=compact&theme=gruvbox&hide_border=true
 [skills1]: https://skillicons.dev/icons?i=unity,cs,cpp,lua,go,cmake,bash,docker,githubactions
-[skills1]: https://skillicons.dev/icons?i=cmake,bash,docker,githubactions
+[skills2]: https://skillicons.dev/icons?i=cmake,bash,docker,githubactions
