@@ -15,9 +15,9 @@ I like coding and here are some `func` facts about me:
 
 ### Toolbox
 
-[Utilyre's Skills][skills1]
+![Utilyre's Skills][skills1]
 
-[Utilyre's Skills][skills2]
+![Utilyre's Skills][skills2]
 
 [skills1]: https://skillicons.dev/icons?i=unity,cs,cpp,lua,go
 [skills2]: https://skillicons.dev/icons?i=cmake,bash,docker,githubactions
