@@ -13,16 +13,15 @@ I like coding and here are some `func` facts about me:
 [youtube]: https://youtube.com/@utilyre
 [gpg]: https://github.com/utilyre.gpg
 
----
+### Toolbox
 
-|                              |                              |
-| ---------------------------- | ---------------------------- |
-| ![Utilyre's Skills][skills1] | ![Utilyre's Skills][skills2] |
+[skills1]: https://skillicons.dev/icons?i=unity,cs,cpp,lua,go
+[skills2]: https://skillicons.dev/icons?i=cmake,bash,docker,githubactions
+
+### Statistics
 
 ![Utilyre's Statistics][stats]
 ![Utilyre's Languages][languages]
 
 [stats]: https://github-readme-stats.vercel.app/api?username=utilyre&count_private=true&theme=gruvbox&show_icons=true&hide_border=true
 [languages]: https://github-readme-stats.vercel.app/api/top-langs?username=utilyre&langs_count=8&layout=compact&theme=gruvbox&hide_border=true
-[skills1]: https://skillicons.dev/icons?i=unity,cs,cpp,lua,go
-[skills2]: https://skillicons.dev/icons?i=cmake,bash,docker,githubactions
