@@ -1,3 +1,9 @@
+![Utilyre's Skills][skills1]
+![Utilyre's Skills][skills2]
+
+[skills1]: https://skillicons.dev/icons?i=unity,cs,cpp,lua,go
+[skills2]: https://skillicons.dev/icons?i=cmake,bash,docker,githubactions
+
 ## 👋 Hi, it's Utilyre
 
 I like coding and here are some `func` facts about me:
@@ -11,20 +17,6 @@ I like coding and here are some `func` facts about me:
 [linkedin]: https://linkedin.com/in/amirabbas-fazelinia
 [youtube]: https://youtube.com/@utilyre
 [gpg]: https://github.com/utilyre.gpg
-
-|                              |
-| :--------------------------- |
-| ![Utilyre's Skills][skills1] <img width="9999999" height="1"> |
-| ![Utilyre's Skills][skills2] |
-
-<style>
-table {
-width: 100%;
-}
-</style>
-
-[skills1]: https://skillicons.dev/icons?i=unity,cs,cpp,lua,go
-[skills2]: https://skillicons.dev/icons?i=cmake,bash,docker,githubactions
 
 ---
 
