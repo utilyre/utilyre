@@ -12,7 +12,7 @@ I like coding and here are some `func` facts about me:
 [youtube]: https://youtube.com/@utilyre
 [gpg]: https://github.com/utilyre.gpg
 
-### Things I love
+### Things I can do without googling
 
 ![Utilyre's Skills][skills1]
 
