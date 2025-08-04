@@ -13,7 +13,7 @@ I like coding and here are some `func` facts about me:
 [linkedin]: https://linkedin.com/in/amirabbas-fazelinia
 [youtube]: https://youtube.com/@utilyre
 [gpg]: https://github.com/utilyre.gpg
-[skills]: https://skillicons.dev/icons?i=unity,cs,cpp,lua,go,cmake,bash&perline=5
+[skills]: https://skillicons.dev/icons?i=unity,cs,cpp,lua,go,cmake,bash,git,vim&perline=5
 
 ---
 
