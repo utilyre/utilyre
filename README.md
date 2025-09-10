@@ -2,7 +2,7 @@
 
 I like coding and here are some `func` facts about me:
 
-- [`💼 LinkedIn`][linkedin]/[`💬 X`][x] is where I talk about the cool stuff I've been
+- [`💼 LinkedIn`][linkedin] / [`💬 X`][x] is where I talk about the cool stuff I've been
   doing lately.
 
 - Check out my devlogs on [`🎬 YouTube`][youtube].
@@ -13,6 +13,10 @@ I like coding and here are some `func` facts about me:
 [x]: https://x.com/utilyre
 [youtube]: https://youtube.com/@utilyre
 [gpg]: https://github.com/utilyre.gpg
+
+### Projects
+
+See pinned repositories below 👇
 
 ### Toolbox
 
