@@ -2,7 +2,7 @@
 
 I like coding and here are some `func` facts about me:
 
-- [`💬 LinkedIn`][linkedin] is where I talk about the cool stuff I've been
+- [`💼 LinkedIn`][linkedin]/[`💬 X`][x] is where I talk about the cool stuff I've been
   doing lately.
 
 - Check out my devlogs on [`🎬 YouTube`][youtube].
@@ -10,6 +10,7 @@ I like coding and here are some `func` facts about me:
 - If it bears my [`🔑 GPG key`][gpg], then lo, it was forged by my own hands.
 
 [linkedin]: https://linkedin.com/in/amirabbas-fazelinia
+[x]: https://x.com/utilyre
 [youtube]: https://youtube.com/@utilyre
 [gpg]: https://github.com/utilyre.gpg
 
