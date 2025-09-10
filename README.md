@@ -20,6 +20,8 @@ See pinned repositories below 👇
 
 ### Toolbox
 
+![Raylib](./assets/raylib_48x48.png)
+
 ![Utilyre's Skills 1][skills1]
 
 ![Utilyre's Skills 2][skills2]
