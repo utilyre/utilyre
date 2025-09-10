@@ -28,7 +28,7 @@ See pinned repositories below 👇
 
 ![Utilyre's Skills 3][skills3]
 
-[skills1]: https://skillicons.dev/icons?i=unity,bevy
+[skills1]: https://skillicons.dev/icons?i=unity
 [skills2]: https://skillicons.dev/icons?i=cpp,cs,lua,go
 [skills3]: https://skillicons.dev/icons?i=cmake,bash,docker,githubactions
 
