@@ -22,7 +22,7 @@ See pinned repositories below 👇
 
 ![Raylib](./assets/raylib.png)
 ![Vulkan](./assets/vulkan.png)
-![Unity](./assets/unity.png)
+<img src="./assets/unity.png" alt="Unity" width="48" height="48">
 
 ![Utilyre's Skills 1][skills1]
 
