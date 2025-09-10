@@ -20,11 +20,8 @@ See pinned repositories below 👇
 
 ### Toolbox
 
-![Raylib](./assets/raylib.png)
-![Vulkan](./assets/vulkan.png)
-<img src="./assets/unity.png" alt="Unity" width="48" height="48">
-
 ![Utilyre's Skills 1][skills1]
+<img src="./assets/raylib.svg" width="48" height="48">
 
 ![Utilyre's Skills 2][skills2]
 
