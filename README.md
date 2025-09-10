@@ -21,6 +21,7 @@ See pinned repositories below 👇
 ### Toolbox
 
 ![Utilyre's Skills 1][skills1]
+<img src="./assets/vulkan.svg" width="48" height="48">
 <img src="./assets/raylib.svg" width="48" height="48">
 
 ![Utilyre's Skills 2][skills2]
