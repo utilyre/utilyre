@@ -16,12 +16,15 @@ I like coding and here are some `func` facts about me:
 
 ### Toolbox
 
-![Utilyre's Skills][skills1]
+![Utilyre's Skills 1][skills1]
 
-![Utilyre's Skills][skills2]
+![Utilyre's Skills 2][skills2]
 
-[skills1]: https://skillicons.dev/icons?i=unity,cs,cpp,lua,go
-[skills2]: https://skillicons.dev/icons?i=cmake,bash,docker,githubactions
+![Utilyre's Skills 3][skills3]
+
+[skills1]: https://skillicons.dev/icons?i=unity,bevy
+[skills2]: https://skillicons.dev/icons?i=cpp,cs,lua,go
+[skills3]: https://skillicons.dev/icons?i=cmake,bash,docker,githubactions
 
 ### Statistics
 
